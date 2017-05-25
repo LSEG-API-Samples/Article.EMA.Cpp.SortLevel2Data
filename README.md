@@ -22,7 +22,7 @@ For any questions related to this article please use the Developer Community [Q&
 ***Note:** To be able to ask questions and to benefit from the full content available on the [TR Developer Community portal](https://developers.thomsonreuters.com) we recommend you to [register here]( https://developers.thomsonreuters.com/iam/register) or [login here]( https://developers.thomsonreuters.com/iam/login?destination_path=Lw%3D%3D).*
 
 ## <a id="disclaimer"></a>Disclaimer
-The source code presented in this project has been written by Thomson Reuters for the only purpose of illustrating the concepts covered in the [Sorting/Ranking Level2 Order Books article](https://developers.thomsonreuters.com/article/elektron-article-3) published on the [Thomson Reuters Developer Community](https://developers.thomsonreuters.com). It has not been tested for a usage in production environments.
+The source code presented in this project has been written by Thomson Reuters for the sole purpose of illustrating the concepts covered in the [Sorting/Ranking Level2 Order Books article](https://developers.thomsonreuters.com/article/elektron-article-3) published on the [Thomson Reuters Developer Community](https://developers.thomsonreuters.com). It has not been tested for a usage in production environments.
 
 ## <a id="prerequisites"></a>Prerequisites
 
