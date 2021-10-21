@@ -12,20 +12,18 @@ Created by Platform Services GitHub tool on Thu May 25 2017
 * [Prerequisites](#prerequisites)
 
 ## <a id="overview"></a>Overview
-This example is one of the many learning materials published by Thomson Reuters to help developers learning Thomson Reuters APIs. It contains a C++ example application that demonstrates the concepts explained in the [Sorting/Ranking Level2 Order Books for Display purposes](https://developers.thomsonreuters.com/article/elektron-article-3) article published on the [Thomson Reuters Developer Community portal](https://developers.thomsonreuters.com). 
-This example is based on the C++ edition of the Elektron Message API that is one of the APIs of the Thomson Reuters Elektron SDK. Please consult the [Elektron SDK page](https://developers.thomsonreuters.com/elektron/elektron-sdk-cc) for more learning materials and documentation about this API.
+This example is one of the many learning materials published by Refinitiv to help developers learning Refinitiv APIs. It contains a C++ example application that demonstrates the concepts explained in the [Sorting/Ranking Level2 Order Books for Display purposes](https://developers.refinitiv.com/en/article-catalog/article/how-sort-process-level-2-orderbook-data-using-ema-c-api) article published on the [Refinitiv Developer Community portal](https://developers.refinitiv.com). 
+This example is based on the C++ edition of the Enterprise Message API that is one of the APIs of the Refinitiv Real-time SDK. Please consult the [RT-SDK page](https://developers.refinitiv.com/en/api-catalog/refinitiv-real-time-opnsrc/rt-sdk-cc) for more learning materials and documentation about this API.
 
 **Although the source code is C++ based, the article itself should provide sufficient guidance for a Java developer to implement the sorting mechanism within a Java application.**
 
-For any questions related to this article please use the Developer Community [Q&A Forum](https://community.developers.thomsonreuters.com).
-
-***Note:** To be able to ask questions and to benefit from the full content available on the [TR Developer Community portal](https://developers.thomsonreuters.com) we recommend you to [register here]( https://developers.thomsonreuters.com/iam/register) or [login here]( https://developers.thomsonreuters.com/iam/login?destination_path=Lw%3D%3D).*
+For any questions related to this article please use the Developer Community [Q&A Forum](https://community.developers.refinitiv.com).
 
 ## <a id="disclaimer"></a>Disclaimer
-The source code presented in this project has been written by Thomson Reuters for the sole purpose of illustrating the concepts covered in the [Sorting/Ranking Level2 Order Books article](https://developers.thomsonreuters.com/article/elektron-article-3) published on the [Thomson Reuters Developer Community](https://developers.thomsonreuters.com). It has not been tested for a usage in production environments.
+The source code presented in this project has been written by Refinitiv for the sole purpose of illustrating the concepts covered in the [Sorting/Ranking Level2 Order Books article](https://developers.refinitiv.com/en/article-catalog/article/how-sort-process-level-2-orderbook-data-using-ema-c-api) published on the [Refinitiv Developer Community](https://developers.refinitiv.com). It has not been tested for a usage in production environments.
 
 ## <a id="prerequisites"></a>Prerequisites
 
 Required software components:
 
-* [Elektron Message API](https://developers.thomsonreuters.com/elektron/elektron-sdk-cc) (1.0.8 or greater) - Thomson Reuters interface to the Elektron Market Data environment
+* [Enterprise Message API](https://developers.refinitiv.com/en/api-catalog/refinitiv-real-time-opnsrc/rt-sdk-cc) - An interface to the Real-time Market Data environment
